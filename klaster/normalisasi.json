@@ -1,0 +1,242 @@
+[
+    {
+        "kecamatan": "WALED",
+        "Ijazah": -0.20989583134684675,
+        "Status Kepegawaian": 0.023057775650637345,
+        "Sertifikasi": 0.2019043937548788
+    },
+    {
+        "kecamatan": "CILEDUG",
+        "Ijazah": -0.24688188092338362,
+        "Status Kepegawaian": -0.13066072868694328,
+        "Sertifikasi": -0.33005927841366395
+    },
+    {
+        "kecamatan": "LOSARI",
+        "Ijazah": -0.6044136934965733,
+        "Status Kepegawaian": -0.5259368826978649,
+        "Sertifikasi": -0.7169419490816951
+    },
+    {
+        "kecamatan": "BABAKAN",
+        "Ijazah": 0.8750282895649011,
+        "Status Kepegawaian": 1.2528058103512825,
+        "Sertifikasi": 0.4759462854780675
+    },
+    {
+        "kecamatan": "KARANGSEMBUNG",
+        "Ijazah": -0.7277005254183628,
+        "Status Kepegawaian": -0.7674945323712059,
+        "Sertifikasi": -0.4751402799141756
+    },
+    {
+        "kecamatan": "LEMAHABANG",
+        "Ijazah": 0.34489491230120617,
+        "Status Kepegawaian": 0.3304947843257986,
+        "Sertifikasi": 0.26638483886621733
+    },
+    {
+        "kecamatan": "SEDONG",
+        "Ijazah": -0.5181129111513206,
+        "Status Kepegawaian": -0.8553336777069662,
+        "Sertifikasi": -0.5396207250255142
+    },
+    {
+        "kecamatan": "ASTANAJAPURA",
+        "Ijazah": -0.1975671481546678,
+        "Status Kepegawaian": -0.5259368826978649,
+        "Sertifikasi": -0.21721849946882155
+    },
+    {
+        "kecamatan": "MUNDU",
+        "Ijazah": -0.0003082170798045439,
+        "Status Kepegawaian": 0.17677627998821796,
+        "Sertifikasi": -0.023777164134805986
+    },
+    {
+        "kecamatan": "BEBER",
+        "Ijazah": -0.5674276439200364,
+        "Status Kepegawaian": -0.17458030135482347,
+        "Sertifikasi": -0.9587436182492145
+    },
+    {
+        "kecamatan": "SUMBER",
+        "Ijazah": 4.290073533798472,
+        "Status Kepegawaian": 2.3507951270482867,
+        "Sertifikasi": 4.264172435769205
+    },
+    {
+        "kecamatan": "PALIMANAN",
+        "Ijazah": 0.912014339141438,
+        "Status Kepegawaian": 1.3186851693531025,
+        "Sertifikasi": 1.1852311817027912
+    },
+    {
+        "kecamatan": "PLUMBON",
+        "Ijazah": 1.5900919147112804,
+        "Status Kepegawaian": 2.3068755543804067,
+        "Sertifikasi": 1.6204741862043262
+    },
+    {
+        "kecamatan": "WERU",
+        "Ijazah": 0.5174964769917115,
+        "Status Kepegawaian": 0.8136100836724806,
+        "Sertifikasi": 0.411465840366729
+    },
+    {
+        "kecamatan": "KAPETAKAN",
+        "Ijazah": -0.02496558346416245,
+        "Status Kepegawaian": 0.06697734831851752,
+        "Sertifikasi": -0.5718609475811833
+    },
+    {
+        "kecamatan": "KLANGENAN",
+        "Ijazah": 0.36955227868556406,
+        "Status Kepegawaian": 0.44029371599549905,
+        "Sertifikasi": 0.5243066193115714
+    },
+    {
+        "kecamatan": "ARJAWINANGUN",
+        "Ijazah": 1.0229724878710487,
+        "Status Kepegawaian": 1.164966665015522,
+        "Sertifikasi": 0.07294350353220179
+    },
+    {
+        "kecamatan": "CIWARINGIN",
+        "Ijazah": -0.9989315556462998,
+        "Status Kepegawaian": -1.0310119683784869,
+        "Sertifikasi": -0.7169419490816951
+    },
+    {
+        "kecamatan": "SUSUKAN",
+        "Ijazah": 0.5791398929526063,
+        "Status Kepegawaian": 0.5500926476651995,
+        "Sertifikasi": 0.07294350353220179
+    },
+    {
+        "kecamatan": "GEGESIK",
+        "Ijazah": 0.5421538433760694,
+        "Status Kepegawaian": 1.0771275196797616,
+        "Sertifikasi": 1.2497116268141297
+    },
+    {
+        "kecamatan": "SUSUKAN LEBAK",
+        "Ijazah": -1.1592044371446262,
+        "Status Kepegawaian": -1.1408109000481874,
+        "Sertifikasi": -1.2650257325280725
+    },
+    {
+        "kecamatan": "PABEDILAN",
+        "Ijazah": -0.3455113464608152,
+        "Status Kepegawaian": -0.43809773736210456,
+        "Sertifikasi": -0.5235006137476795
+    },
+    {
+        "kecamatan": "DUKUPUNTANG",
+        "Ijazah": 0.3079088627246693,
+        "Status Kepegawaian": 0.8136100836724806,
+        "Sertifikasi": 0.5243066193115714
+    },
+    {
+        "kecamatan": "PANGURAGAN",
+        "Ijazah": -0.5797563271122154,
+        "Status Kepegawaian": -0.6796553870354455,
+        "Sertifikasi": -0.7330620603595297
+    },
+    {
+        "kecamatan": "KALIWEDI",
+        "Ijazah": -0.7646865749948997,
+        "Status Kepegawaian": -0.46005752369604463,
+        "Sertifikasi": -0.6041011701368526
+    },
+    {
+        "kecamatan": "PANGENAN",
+        "Ijazah": -1.208519169913342,
+        "Status Kepegawaian": -1.6898055583966896,
+        "Sertifikasi": -1.0877045084718915
+    },
+    {
+        "kecamatan": "GEBANG",
+        "Ijazah": 0.27092281314813244,
+        "Status Kepegawaian": 0.3963741433276189,
+        "Sertifikasi": 0.540426730589406
+    },
+    {
+        "kecamatan": "DEPOK",
+        "Ijazah": 0.628454625721322,
+        "Status Kepegawaian": 1.5602428190264437,
+        "Sertifikasi": 1.3625524057589722
+    },
+    {
+        "kecamatan": "KEDAWUNG",
+        "Ijazah": 0.012020466112374409,
+        "Status Kepegawaian": -0.9870923957106068,
+        "Sertifikasi": -0.7814223941930336
+    },
+    {
+        "kecamatan": "KARANGWARENG",
+        "Ijazah": -1.3687920514116683,
+        "Status Kepegawaian": -1.4482479087233486,
+        "Sertifikasi": -1.2811458438059071
+    },
+    {
+        "kecamatan": "TALUN",
+        "Ijazah": 0.33256622910902717,
+        "Status Kepegawaian": -0.020861797017242837,
+        "Sertifikasi": 0.21802450503271345
+    },
+    {
+        "kecamatan": "GUNUNG JATI",
+        "Ijazah": 0.88735697275708,
+        "Status Kepegawaian": 0.6159720066670198,
+        "Sertifikasi": 0.5565468418672407
+    },
+    {
+        "kecamatan": "PASALEMAN",
+        "Ijazah": -1.5660509824865316,
+        "Status Kepegawaian": -1.6019664130609292,
+        "Sertifikasi": -1.2166653986945686
+    },
+    {
+        "kecamatan": "PABUARAN",
+        "Ijazah": -0.9866028724541208,
+        "Status Kepegawaian": -1.0090521820445468,
+        "Sertifikasi": -0.5396207250255142
+    },
+    {
+        "kecamatan": "TENGAH TANI",
+        "Ijazah": -0.4687981783826048,
+        "Status Kepegawaian": -0.9651326093766667,
+        "Sertifikasi": -0.21721849946882155
+    },
+    {
+        "kecamatan": "PLERED",
+        "Ijazah": 0.48051042741517463,
+        "Status Kepegawaian": 0.8794894426743008,
+        "Sertifikasi": 0.4759462854780675
+    },
+    {
+        "kecamatan": "GEMPOL",
+        "Ijazah": -0.5181129111513206,
+        "Status Kepegawaian": -0.7674945323712059,
+        "Sertifikasi": -0.5235006137476795
+    },
+    {
+        "kecamatan": "GREGED",
+        "Ijazah": -0.29619661369209943,
+        "Status Kepegawaian": -0.5259368826978649,
+        "Sertifikasi": -0.2978190558579947
+    },
+    {
+        "kecamatan": "SURANENGGALA",
+        "Ijazah": -0.148252415385952,
+        "Status Kepegawaian": -0.39417816469422434,
+        "Sertifikasi": -0.23333861074665616
+    },
+    {
+        "kecamatan": "JAMBLANG",
+        "Ijazah": -0.4564694951904258,
+        "Status Kepegawaian": 0.001097989316697254,
+        "Sertifikasi": -0.16885816563531766
+    }
+]

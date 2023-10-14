@@ -1,0 +1,4 @@
+{
+    "akurasi": 0.79,
+    "laporan_klasifikasi": "              precision    recall  f1-score   support\n\n     positif       0.77      0.99      0.87       183\n      netral       0.85      0.61      0.71        66\n     negatif       0.88      0.29      0.44        51\n\n    accuracy                           0.79       300\n   macro avg       0.83      0.63      0.67       300\nweighted avg       0.81      0.79      0.76       300\n"
+}

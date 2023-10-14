@@ -1,0 +1,285 @@
+{
+  "Iterasi_Pesan": 5,
+  "Hasil_Cluster_Terakhir": [
+    {
+      "kecamatan": "WALED",
+      "Ijazah": 221,
+      "Status Kepegawaian": 162,
+      "Sertifikasi": 165,
+      "Cluster": 1
+    },
+    {
+      "kecamatan": "CILEDUG",
+      "Ijazah": 218,
+      "Status Kepegawaian": 155,
+      "Sertifikasi": 132,
+      "Cluster": 1
+    },
+    {
+      "kecamatan": "LOSARI",
+      "Ijazah": 189,
+      "Status Kepegawaian": 137,
+      "Sertifikasi": 108,
+      "Cluster": 1
+    },
+    {
+      "kecamatan": "BABAKAN",
+      "Ijazah": 309,
+      "Status Kepegawaian": 218,
+      "Sertifikasi": 182,
+      "Cluster": 2
+    },
+    {
+      "kecamatan": "KARANGSEMBUNG",
+      "Ijazah": 179,
+      "Status Kepegawaian": 126,
+      "Sertifikasi": 123,
+      "Cluster": 1
+    },
+    {
+      "kecamatan": "LEMAHABANG",
+      "Ijazah": 266,
+      "Status Kepegawaian": 176,
+      "Sertifikasi": 169,
+      "Cluster": 2
+    },
+    {
+      "kecamatan": "SEDONG",
+      "Ijazah": 196,
+      "Status Kepegawaian": 122,
+      "Sertifikasi": 119,
+      "Cluster": 1
+    },
+    {
+      "kecamatan": "ASTANAJAPURA",
+      "Ijazah": 222,
+      "Status Kepegawaian": 137,
+      "Sertifikasi": 139,
+      "Cluster": 1
+    },
+    {
+      "kecamatan": "MUNDU",
+      "Ijazah": 238,
+      "Status Kepegawaian": 169,
+      "Sertifikasi": 151,
+      "Cluster": 1
+    },
+    {
+      "kecamatan": "BEBER",
+      "Ijazah": 192,
+      "Status Kepegawaian": 153,
+      "Sertifikasi": 93,
+      "Cluster": 1
+    },
+    {
+      "kecamatan": "SUMBER",
+      "Ijazah": 586,
+      "Status Kepegawaian": 268,
+      "Sertifikasi": 417,
+      "Cluster": 2
+    },
+    {
+      "kecamatan": "PALIMANAN",
+      "Ijazah": 312,
+      "Status Kepegawaian": 221,
+      "Sertifikasi": 226,
+      "Cluster": 2
+    },
+    {
+      "kecamatan": "PLUMBON",
+      "Ijazah": 367,
+      "Status Kepegawaian": 266,
+      "Sertifikasi": 253,
+      "Cluster": 2
+    },
+    {
+      "kecamatan": "WERU",
+      "Ijazah": 280,
+      "Status Kepegawaian": 198,
+      "Sertifikasi": 178,
+      "Cluster": 2
+    },
+    {
+      "kecamatan": "KAPETAKAN",
+      "Ijazah": 236,
+      "Status Kepegawaian": 164,
+      "Sertifikasi": 117,
+      "Cluster": 1
+    },
+    {
+      "kecamatan": "KLANGENAN",
+      "Ijazah": 268,
+      "Status Kepegawaian": 181,
+      "Sertifikasi": 185,
+      "Cluster": 2
+    },
+    {
+      "kecamatan": "ARJAWINANGUN",
+      "Ijazah": 321,
+      "Status Kepegawaian": 214,
+      "Sertifikasi": 157,
+      "Cluster": 2
+    },
+    {
+      "kecamatan": "CIWARINGIN",
+      "Ijazah": 157,
+      "Status Kepegawaian": 114,
+      "Sertifikasi": 108,
+      "Cluster": 3
+    },
+    {
+      "kecamatan": "SUSUKAN",
+      "Ijazah": 285,
+      "Status Kepegawaian": 186,
+      "Sertifikasi": 157,
+      "Cluster": 2
+    },
+    {
+      "kecamatan": "GEGESIK",
+      "Ijazah": 282,
+      "Status Kepegawaian": 210,
+      "Sertifikasi": 230,
+      "Cluster": 2
+    },
+    {
+      "kecamatan": "SUSUKAN LEBAK",
+      "Ijazah": 144,
+      "Status Kepegawaian": 109,
+      "Sertifikasi": 74,
+      "Cluster": 3
+    },
+    {
+      "kecamatan": "PABEDILAN",
+      "Ijazah": 210,
+      "Status Kepegawaian": 141,
+      "Sertifikasi": 120,
+      "Cluster": 1
+    },
+    {
+      "kecamatan": "DUKUPUNTANG",
+      "Ijazah": 263,
+      "Status Kepegawaian": 198,
+      "Sertifikasi": 185,
+      "Cluster": 2
+    },
+    {
+      "kecamatan": "PANGURAGAN",
+      "Ijazah": 191,
+      "Status Kepegawaian": 130,
+      "Sertifikasi": 107,
+      "Cluster": 1
+    },
+    {
+      "kecamatan": "KALIWEDI",
+      "Ijazah": 176,
+      "Status Kepegawaian": 140,
+      "Sertifikasi": 115,
+      "Cluster": 1
+    },
+    {
+      "kecamatan": "PANGENAN",
+      "Ijazah": 140,
+      "Status Kepegawaian": 84,
+      "Sertifikasi": 85,
+      "Cluster": 3
+    },
+    {
+      "kecamatan": "GEBANG",
+      "Ijazah": 260,
+      "Status Kepegawaian": 179,
+      "Sertifikasi": 186,
+      "Cluster": 2
+    },
+    {
+      "kecamatan": "DEPOK",
+      "Ijazah": 289,
+      "Status Kepegawaian": 232,
+      "Sertifikasi": 237,
+      "Cluster": 2
+    },
+    {
+      "kecamatan": "KEDAWUNG",
+      "Ijazah": 239,
+      "Status Kepegawaian": 116,
+      "Sertifikasi": 104,
+      "Cluster": 1
+    },
+    {
+      "kecamatan": "KARANGWARENG",
+      "Ijazah": 127,
+      "Status Kepegawaian": 95,
+      "Sertifikasi": 73,
+      "Cluster": 3
+    },
+    {
+      "kecamatan": "TALUN",
+      "Ijazah": 265,
+      "Status Kepegawaian": 160,
+      "Sertifikasi": 166,
+      "Cluster": 1
+    },
+    {
+      "kecamatan": "GUNUNG JATI",
+      "Ijazah": 310,
+      "Status Kepegawaian": 189,
+      "Sertifikasi": 187,
+      "Cluster": 2
+    },
+    {
+      "kecamatan": "PASALEMAN",
+      "Ijazah": 111,
+      "Status Kepegawaian": 88,
+      "Sertifikasi": 77,
+      "Cluster": 3
+    },
+    {
+      "kecamatan": "PABUARAN",
+      "Ijazah": 158,
+      "Status Kepegawaian": 115,
+      "Sertifikasi": 119,
+      "Cluster": 3
+    },
+    {
+      "kecamatan": "TENGAH TANI",
+      "Ijazah": 200,
+      "Status Kepegawaian": 117,
+      "Sertifikasi": 139,
+      "Cluster": 1
+    },
+    {
+      "kecamatan": "PLERED",
+      "Ijazah": 277,
+      "Status Kepegawaian": 201,
+      "Sertifikasi": 182,
+      "Cluster": 2
+    },
+    {
+      "kecamatan": "GEMPOL",
+      "Ijazah": 196,
+      "Status Kepegawaian": 126,
+      "Sertifikasi": 120,
+      "Cluster": 1
+    },
+    {
+      "kecamatan": "GREGED",
+      "Ijazah": 214,
+      "Status Kepegawaian": 137,
+      "Sertifikasi": 134,
+      "Cluster": 1
+    },
+    {
+      "kecamatan": "SURANENGGALA",
+      "Ijazah": 226,
+      "Status Kepegawaian": 143,
+      "Sertifikasi": 138,
+      "Cluster": 1
+    },
+    {
+      "kecamatan": "JAMBLANG",
+      "Ijazah": 201,
+      "Status Kepegawaian": 161,
+      "Sertifikasi": 142,
+      "Cluster": 1
+    }
+  ]
+}

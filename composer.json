@@ -1,0 +1,12 @@
+{
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.29",
+        "camspiers/porter-stemmer": "^1.0",
+        "davmixcool/php-sentiment-analyzer": "^1.2",
+        "assisted-mindfulness/naive-bayes": "^0.0.1",
+        "php-ai/php-ml": "^0.10.0"
+    },
+    "require-dev": {
+        "jonnyw/php-phantomjs": "^4.6"
+    }
+}

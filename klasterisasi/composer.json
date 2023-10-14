@@ -1,0 +1,8 @@
+{
+    "require": {
+        "php-ai/php-ml": "0.10.0",
+        "phpoffice/phpspreadsheet": "1.19.0",
+        "rubix/tensor": "^3.0",
+        "rubix/ml": "^2.4"
+    }
+}

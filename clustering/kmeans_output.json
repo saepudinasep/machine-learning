@@ -1,0 +1,512 @@
+{
+    "Jumlah_Cluster": 3,
+    "Metode_Inisialisasi_Pusat_Cluster": "rata-rata",
+    "Iterasi_Clustering": [
+        {
+            "Iterasi": 5,
+            "Pusat_Cluster_Baru": {
+                "Ijazah": {
+                    "1": 287.0,
+                    "2": 188.82608695652175,
+                    "3": 586.0
+                },
+                "Status Kepegawaian": {
+                    "1": 199.875,
+                    "2": 129.2173913043478,
+                    "3": 268.0
+                },
+                "Sertifikasi": {
+                    "1": 189.4375,
+                    "2": 115.26086956521739,
+                    "3": 417.0
+                }
+            },
+            "Anggota_Cluster": [
+                {
+                    "kecamatan": "WALED",
+                    "Ijazah": 221,
+                    "Status Kepegawaian": 162,
+                    "Sertifikasi": 165,
+                    "Cluster": 2
+                },
+                {
+                    "kecamatan": "CILEDUG",
+                    "Ijazah": 218,
+                    "Status Kepegawaian": 155,
+                    "Sertifikasi": 132,
+                    "Cluster": 2
+                },
+                {
+                    "kecamatan": "LOSARI",
+                    "Ijazah": 189,
+                    "Status Kepegawaian": 137,
+                    "Sertifikasi": 108,
+                    "Cluster": 2
+                },
+                {
+                    "kecamatan": "BABAKAN",
+                    "Ijazah": 309,
+                    "Status Kepegawaian": 218,
+                    "Sertifikasi": 182,
+                    "Cluster": 1
+                },
+                {
+                    "kecamatan": "KARANGSEMBUNG",
+                    "Ijazah": 179,
+                    "Status Kepegawaian": 126,
+                    "Sertifikasi": 123,
+                    "Cluster": 2
+                },
+                {
+                    "kecamatan": "LEMAHABANG",
+                    "Ijazah": 266,
+                    "Status Kepegawaian": 176,
+                    "Sertifikasi": 169,
+                    "Cluster": 1
+                },
+                {
+                    "kecamatan": "SEDONG",
+                    "Ijazah": 196,
+                    "Status Kepegawaian": 122,
+                    "Sertifikasi": 119,
+                    "Cluster": 2
+                },
+                {
+                    "kecamatan": "ASTANAJAPURA",
+                    "Ijazah": 222,
+                    "Status Kepegawaian": 137,
+                    "Sertifikasi": 139,
+                    "Cluster": 2
+                },
+                {
+                    "kecamatan": "MUNDU",
+                    "Ijazah": 238,
+                    "Status Kepegawaian": 169,
+                    "Sertifikasi": 151,
+                    "Cluster": 1
+                },
+                {
+                    "kecamatan": "BEBER",
+                    "Ijazah": 192,
+                    "Status Kepegawaian": 153,
+                    "Sertifikasi": 93,
+                    "Cluster": 2
+                },
+                {
+                    "kecamatan": "SUMBER",
+                    "Ijazah": 586,
+                    "Status Kepegawaian": 268,
+                    "Sertifikasi": 417,
+                    "Cluster": 3
+                },
+                {
+                    "kecamatan": "PALIMANAN",
+                    "Ijazah": 312,
+                    "Status Kepegawaian": 221,
+                    "Sertifikasi": 226,
+                    "Cluster": 1
+                },
+                {
+                    "kecamatan": "PLUMBON",
+                    "Ijazah": 367,
+                    "Status Kepegawaian": 266,
+                    "Sertifikasi": 253,
+                    "Cluster": 1
+                },
+                {
+                    "kecamatan": "WERU",
+                    "Ijazah": 280,
+                    "Status Kepegawaian": 198,
+                    "Sertifikasi": 178,
+                    "Cluster": 1
+                },
+                {
+                    "kecamatan": "KAPETAKAN",
+                    "Ijazah": 236,
+                    "Status Kepegawaian": 164,
+                    "Sertifikasi": 117,
+                    "Cluster": 2
+                },
+                {
+                    "kecamatan": "KLANGENAN",
+                    "Ijazah": 268,
+                    "Status Kepegawaian": 181,
+                    "Sertifikasi": 185,
+                    "Cluster": 1
+                },
+                {
+                    "kecamatan": "ARJAWINANGUN",
+                    "Ijazah": 321,
+                    "Status Kepegawaian": 214,
+                    "Sertifikasi": 157,
+                    "Cluster": 1
+                },
+                {
+                    "kecamatan": "CIWARINGIN",
+                    "Ijazah": 157,
+                    "Status Kepegawaian": 114,
+                    "Sertifikasi": 108,
+                    "Cluster": 2
+                },
+                {
+                    "kecamatan": "SUSUKAN",
+                    "Ijazah": 285,
+                    "Status Kepegawaian": 186,
+                    "Sertifikasi": 157,
+                    "Cluster": 1
+                },
+                {
+                    "kecamatan": "GEGESIK",
+                    "Ijazah": 282,
+                    "Status Kepegawaian": 210,
+                    "Sertifikasi": 230,
+                    "Cluster": 1
+                },
+                {
+                    "kecamatan": "SUSUKAN LEBAK",
+                    "Ijazah": 144,
+                    "Status Kepegawaian": 109,
+                    "Sertifikasi": 74,
+                    "Cluster": 2
+                },
+                {
+                    "kecamatan": "PABEDILAN",
+                    "Ijazah": 210,
+                    "Status Kepegawaian": 141,
+                    "Sertifikasi": 120,
+                    "Cluster": 2
+                },
+                {
+                    "kecamatan": "DUKUPUNTANG",
+                    "Ijazah": 263,
+                    "Status Kepegawaian": 198,
+                    "Sertifikasi": 185,
+                    "Cluster": 1
+                },
+                {
+                    "kecamatan": "PANGURAGAN",
+                    "Ijazah": 191,
+                    "Status Kepegawaian": 130,
+                    "Sertifikasi": 107,
+                    "Cluster": 2
+                },
+                {
+                    "kecamatan": "KALIWEDI",
+                    "Ijazah": 176,
+                    "Status Kepegawaian": 140,
+                    "Sertifikasi": 115,
+                    "Cluster": 2
+                },
+                {
+                    "kecamatan": "PANGENAN",
+                    "Ijazah": 140,
+                    "Status Kepegawaian": 84,
+                    "Sertifikasi": 85,
+                    "Cluster": 2
+                },
+                {
+                    "kecamatan": "GEBANG",
+                    "Ijazah": 260,
+                    "Status Kepegawaian": 179,
+                    "Sertifikasi": 186,
+                    "Cluster": 1
+                },
+                {
+                    "kecamatan": "DEPOK",
+                    "Ijazah": 289,
+                    "Status Kepegawaian": 232,
+                    "Sertifikasi": 237,
+                    "Cluster": 1
+                },
+                {
+                    "kecamatan": "KEDAWUNG",
+                    "Ijazah": 239,
+                    "Status Kepegawaian": 116,
+                    "Sertifikasi": 104,
+                    "Cluster": 2
+                },
+                {
+                    "kecamatan": "KARANGWARENG",
+                    "Ijazah": 127,
+                    "Status Kepegawaian": 95,
+                    "Sertifikasi": 73,
+                    "Cluster": 2
+                },
+                {
+                    "kecamatan": "TALUN",
+                    "Ijazah": 265,
+                    "Status Kepegawaian": 160,
+                    "Sertifikasi": 166,
+                    "Cluster": 1
+                },
+                {
+                    "kecamatan": "GUNUNG JATI",
+                    "Ijazah": 310,
+                    "Status Kepegawaian": 189,
+                    "Sertifikasi": 187,
+                    "Cluster": 1
+                },
+                {
+                    "kecamatan": "PASALEMAN",
+                    "Ijazah": 111,
+                    "Status Kepegawaian": 88,
+                    "Sertifikasi": 77,
+                    "Cluster": 2
+                },
+                {
+                    "kecamatan": "PABUARAN",
+                    "Ijazah": 158,
+                    "Status Kepegawaian": 115,
+                    "Sertifikasi": 119,
+                    "Cluster": 2
+                },
+                {
+                    "kecamatan": "TENGAH TANI",
+                    "Ijazah": 200,
+                    "Status Kepegawaian": 117,
+                    "Sertifikasi": 139,
+                    "Cluster": 2
+                },
+                {
+                    "kecamatan": "PLERED",
+                    "Ijazah": 277,
+                    "Status Kepegawaian": 201,
+                    "Sertifikasi": 182,
+                    "Cluster": 1
+                },
+                {
+                    "kecamatan": "GEMPOL",
+                    "Ijazah": 196,
+                    "Status Kepegawaian": 126,
+                    "Sertifikasi": 120,
+                    "Cluster": 2
+                },
+                {
+                    "kecamatan": "GREGED",
+                    "Ijazah": 214,
+                    "Status Kepegawaian": 137,
+                    "Sertifikasi": 134,
+                    "Cluster": 2
+                },
+                {
+                    "kecamatan": "SURANENGGALA",
+                    "Ijazah": 226,
+                    "Status Kepegawaian": 143,
+                    "Sertifikasi": 138,
+                    "Cluster": 2
+                },
+                {
+                    "kecamatan": "JAMBLANG",
+                    "Ijazah": 201,
+                    "Status Kepegawaian": 161,
+                    "Sertifikasi": 142,
+                    "Cluster": 2
+                }
+            ],
+            "Perhitungan_Jarak_Euclidean": [
+                {
+                    "Distance_to_C1": 79.923132016019,
+                    "Distance_to_C2": 67.70407085124106,
+                    "Distance_to_C3": 456.0317971369979
+                },
+                {
+                    "Distance_to_C1": 100.36848126404026,
+                    "Distance_to_C2": 42.37993158482226,
+                    "Distance_to_C3": 478.9759910475681
+                },
+                {
+                    "Distance_to_C1": 142.08916929607972,
+                    "Distance_to_C2": 10.645161844680102,
+                    "Distance_to_C3": 519.856711027183
+                },
+                {
+                    "Distance_to_C1": 29.458988971958966,
+                    "Distance_to_C2": 163.6405588910576,
+                    "Distance_to_C3": 366.67969673817504
+                },
+                {
+                    "Distance_to_C1": 146.74964065117842,
+                    "Distance_to_C2": 12.915019611638158,
+                    "Distance_to_C3": 521.774855660945
+                },
+                {
+                    "Distance_to_C1": 37.7982411131788,
+                    "Distance_to_C2": 105.034848839323,
+                    "Distance_to_C3": 415.17225340814866
+                },
+                {
+                    "Distance_to_C1": 138.94947654183517,
+                    "Distance_to_C2": 10.84144187844866,
+                    "Distance_to_C3": 512.0742133714605
+                },
+                {
+                    "Distance_to_C1": 103.54809042782972,
+                    "Distance_to_C2": 41.52859037489136,
+                    "Distance_to_C3": 476.3832490757835
+                },
+                {
+                    "Distance_to_C1": 69.51048144884338,
+                    "Distance_to_C2": 72.64994922829159,
+                    "Distance_to_C3": 449.0668101741655
+                },
+                {
+                    "Distance_to_C1": 143.2566125219007,
+                    "Distance_to_C2": 32.7296885744074,
+                    "Distance_to_C3": 522.9120384921349
+                },
+                {
+                    "Distance_to_C1": 381.87263194846787,
+                    "Distance_to_C2": 517.7395411924588,
+                    "Distance_to_C3": 0.0
+                },
+                {
+                    "Distance_to_C1": 49.0722124144612,
+                    "Distance_to_C2": 189.36476737469764,
+                    "Distance_to_C3": 337.29215822488374
+                },
+                {
+                    "Distance_to_C1": 121.70746497750251,
+                    "Distance_to_C2": 263.4909740081108,
+                    "Distance_to_C3": 273.6073829413234
+                },
+                {
+                    "Distance_to_C1": 13.540015925027562,
+                    "Distance_to_C2": 130.3070534021532,
+                    "Distance_to_C3": 394.53390221880807
+                },
+                {
+                    "Distance_to_C1": 95.57827698410345,
+                    "Distance_to_C2": 58.63644356692938,
+                    "Distance_to_C3": 472.56322328340366
+                },
+                {
+                    "Distance_to_C1": 27.146952522336647,
+                    "Distance_to_C2": 117.53081886783106,
+                    "Distance_to_C3": 403.133972768359
+                },
+                {
+                    "Distance_to_C1": 49.06839136603115,
+                    "Distance_to_C2": 162.48134980949914,
+                    "Distance_to_C3": 375.1546347841114
+                },
+                {
+                    "Distance_to_C1": 175.80267924935046,
+                    "Distance_to_C2": 36.01651060162303,
+                    "Distance_to_C3": 550.6705003902061
+                },
+                {
+                    "Distance_to_C1": 35.33704898898605,
+                    "Distance_to_C2": 119.23020259074403,
+                    "Distance_to_C3": 406.1095911204265
+                },
+                {
+                    "Distance_to_C1": 42.105011949291736,
+                    "Distance_to_C2": 168.44071952006902,
+                    "Distance_to_C3": 361.5923118651723
+                },
+                {
+                    "Distance_to_C1": 205.019711323692,
+                    "Distance_to_C2": 64.19174666781277,
+                    "Distance_to_C3": 581.6304668773809
+                },
+                {
+                    "Distance_to_C1": 119.23435759566117,
+                    "Distance_to_C2": 24.69056132463415,
+                    "Distance_to_C3": 495.69547103034944
+                },
+                {
+                    "Distance_to_C1": 24.478705669418062,
+                    "Distance_to_C2": 122.86725743240265,
+                    "Distance_to_C3": 403.798216935142
+                },
+                {
+                    "Distance_to_C1": 144.54915091846786,
+                    "Distance_to_C2": 8.577898359426406,
+                    "Distance_to_C3": 520.7388981053749
+                },
+                {
+                    "Distance_to_C1": 146.4477962662805,
+                    "Distance_to_C2": 16.758317631250108,
+                    "Distance_to_C3": 525.0599965718203
+                },
+                {
+                    "Distance_to_C1": 214.34366571291534,
+                    "Distance_to_C2": 73.10485257969837,
+                    "Distance_to_C3": 585.6586036250129
+                },
+                {
+                    "Distance_to_C1": 34.301341537176064,
+                    "Distance_to_C2": 112.01811728972334,
+                    "Distance_to_C3": 409.33849073841077
+                },
+                {
+                    "Distance_to_C1": 57.430018555194636,
+                    "Distance_to_C2": 188.2006731755838,
+                    "Distance_to_C3": 349.1489653428748
+                },
+                {
+                    "Distance_to_C1": 128.99062768763474,
+                    "Distance_to_C2": 53.09357933264253,
+                    "Distance_to_C3": 491.40818064008664
+                },
+                {
+                    "Distance_to_C1": 223.95637305343647,
+                    "Distance_to_C2": 82.33635887284889,
+                    "Distance_to_C3": 599.1210228326161
+                },
+                {
+                    "Distance_to_C1": 51.218473534946355,
+                    "Distance_to_C2": 96.56341638396454,
+                    "Distance_to_C3": 421.55189478876736
+                },
+                {
+                    "Distance_to_C1": 25.557915236771564,
+                    "Distance_to_C2": 152.9822876684247,
+                    "Distance_to_C3": 367.8545908371948
+                },
+                {
+                    "Distance_to_C1": 236.92658574176517,
+                    "Distance_to_C2": 96.01909860432137,
+                    "Distance_to_C3": 611.2487218800543
+                },
+                {
+                    "Distance_to_C1": 169.72391414073033,
+                    "Distance_to_C2": 34.15205629182967,
+                    "Distance_to_C3": 543.50436980764
+                },
+                {
+                    "Distance_to_C1": 130.31196043053762,
+                    "Distance_to_C2": 28.942482560872158,
+                    "Distance_to_C3": 499.0801538831213
+                },
+                {
+                    "Distance_to_C1": 12.51327420182264,
+                    "Distance_to_C2": 131.83889177227982,
+                    "Distance_to_C3": 393.9479661072005
+                },
+                {
+                    "Distance_to_C1": 136.2353919921325,
+                    "Distance_to_C2": 9.180195664503186,
+                    "Distance_to_C3": 510.36555526406755
+                },
+                {
+                    "Distance_to_C1": 111.15566576315398,
+                    "Distance_to_C2": 32.33341778225805,
+                    "Distance_to_C3": 485.4214663568145
+                },
+                {
+                    "Distance_to_C1": 97.98766264816199,
+                    "Distance_to_C2": 45.70479369116117,
+                    "Distance_to_C3": 472.29863434060445
+                },
+                {
+                    "Distance_to_C1": 105.62945626694288,
+                    "Distance_to_C2": 43.28186075828341,
+                    "Distance_to_C3": 485.07628266077904
+                }
+            ],
+            "Iterasi_Pesan": "\nIterasi 5: Konvergensi tercapai.",
+            "Hasil_Cluster_Terakhir": "\nHasil Cluster Terakhir:\n        kecamatan  Ijazah  Status Kepegawaian  Sertifikasi  Cluster\n0           WALED     221                 162          165        2\n1         CILEDUG     218                 155          132        2\n2          LOSARI     189                 137          108        2\n3         BABAKAN     309                 218          182        1\n4   KARANGSEMBUNG     179                 126          123        2\n5      LEMAHABANG     266                 176          169        1\n6          SEDONG     196                 122          119        2\n7    ASTANAJAPURA     222                 137          139        2\n8           MUNDU     238                 169          151        1\n9           BEBER     192                 153           93        2\n10         SUMBER     586                 268          417        3\n11      PALIMANAN     312                 221          226        1\n12        PLUMBON     367                 266          253        1\n13           WERU     280                 198          178        1\n14      KAPETAKAN     236                 164          117        2\n15      KLANGENAN     268                 181          185        1\n16   ARJAWINANGUN     321                 214          157        1\n17     CIWARINGIN     157                 114          108        2\n18        SUSUKAN     285                 186          157        1\n19        GEGESIK     282                 210          230        1\n20  SUSUKAN LEBAK     144                 109           74        2\n21      PABEDILAN     210                 141          120        2\n22    DUKUPUNTANG     263                 198          185        1\n23     PANGURAGAN     191                 130          107        2\n24       KALIWEDI     176                 140          115        2\n25       PANGENAN     140                  84           85        2\n26         GEBANG     260                 179          186        1\n27          DEPOK     289                 232          237        1\n28       KEDAWUNG     239                 116          104        2\n29   KARANGWARENG     127                  95           73        2\n30          TALUN     265                 160          166        1\n31    GUNUNG JATI     310                 189          187        1\n32      PASALEMAN     111                  88           77        2\n33       PABUARAN     158                 115          119        2\n34    TENGAH TANI     200                 117          139        2\n35         PLERED     277                 201          182        1\n36         GEMPOL     196                 126          120        2\n37         GREGED     214                 137          134        2\n38   SURANENGGALA     226                 143          138        2\n39       JAMBLANG     201                 161          142        2"
+        }
+    ]
+}
